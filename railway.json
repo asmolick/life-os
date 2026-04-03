@@ -10,7 +10,3 @@
     "restartPolicyMaxRetries": 10
   }
 }
-
-Click "Commit changes"
-
-Then redeploy in Railway and tell me what the logs show. 🎯
